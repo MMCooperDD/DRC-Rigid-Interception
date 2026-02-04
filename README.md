@@ -28,7 +28,7 @@
 Video demos: [Success](results/videos/success.mp4) | [Failure Analysis](results/videos/failure.mp4)
 
 ## Code
-- Training: `python train_DCMM.py --config-name=config_task=Catching`
+- Training: `python DRC.py `
 - Requirements: `pip install -r requirements.txt`
 
 ## Citation
